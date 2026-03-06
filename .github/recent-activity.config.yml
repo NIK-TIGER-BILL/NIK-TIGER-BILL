@@ -1,0 +1,20 @@
+username: NIK-TIGER-BILL
+max_lines: 6
+readme_file: README.md
+commit_msg: "chore: update recent activity"
+
+activity:
+  - type: CommitCommentEvent
+    text: "🔨 Committed to {REPO}"
+  - type: IssueCommentEvent
+    text: "💬 Commented on issue in {REPO}"
+  - type: PullRequestEvent
+    text: "🔃 Opened PR in {REPO}"
+  - type: PullRequestReviewEvent
+    text: "👀 Reviewed PR in {REPO}"
+  - type: PushEvent
+    text: "⬆️ Pushed to {REPO}"
+  - type: ReleaseEvent
+    text: "🚀 Released {ID} in {REPO}"
+  - type: CreateEvent
+    text: "➕ Created {PAYLOAD} in {REPO}"
