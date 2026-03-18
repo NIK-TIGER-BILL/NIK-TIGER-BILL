@@ -17,9 +17,9 @@ Moscow, Russia · [Telegram](https://t.me/NIK_TIGER_BILL) · nzamuldinov@gmail.c
 
 ---
 
-### Open source contributions
+### Contributions
 
-PRs merged or open in: [litellm](https://github.com/BerriAI/litellm) · [agno](https://github.com/agno-agi/agno) · [smolagents](https://github.com/huggingface/smolagents) · [crewAI](https://github.com/crewAIInc/crewAI) · [mem0](https://github.com/mem0ai/mem0) · [openai-python](https://github.com/openai/openai-python) · [langchain-gigachat](https://github.com/ai-forever/langchain-gigachat)
+[litellm](https://github.com/BerriAI/litellm) · [agno](https://github.com/agno-agi/agno) · [smolagents](https://github.com/huggingface/smolagents) · [crewAI](https://github.com/crewAIInc/crewAI) · [mem0](https://github.com/mem0ai/mem0) · [openai-python](https://github.com/openai/openai-python) · [langchain-gigachat](https://github.com/ai-forever/langchain-gigachat)
 
 ---
 
