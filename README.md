@@ -11,6 +11,7 @@ Moscow, Russia · [Telegram](https://t.me/NIK_TIGER_BILL) · nzamuldinov@gmail.c
 
 ### Currently building
 
+- [**VibeTube**](https://github.com/NIK-TIGER-BILL/vibetube) — Auto-pauses YouTube when you look away. For vibecoders. 👁️
 - [**MatryoshkaClaw**](https://github.com/NIK-TIGER-BILL/MatryoshkaClaw) — Russian-flavored autonomous AI agent platform. Agents inside agents. 🪆
 - [**sberjazz-sdk**](https://github.com/NIK-TIGER-BILL/sberjazz-sdk) — Python SDK for automating SberJazz video conferences via Playwright
 - [**AdventOfCodeCopilot**](https://github.com/NIK-TIGER-BILL/AdventOfCodeCopilot) — LLM-powered assistant for solving Advent of Code
