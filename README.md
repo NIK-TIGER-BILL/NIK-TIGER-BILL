@@ -1,6 +1,6 @@
 # Nikita Zamuldinov
 
-Lead AI Engineer · AI Agent Architect
+AI-native Team Lead, LLM agent builder, AI engineer, vibe-coder, ex-senior Python developer
 
 I build AI agents. They mostly work.
 Sometimes they work too well, which is scarier.
@@ -13,6 +13,7 @@ Moscow, Russia · [Telegram](https://t.me/NIK_TIGER_BILL) · nzamuldinov@gmail.c
 
 - [**VibeTube**](https://github.com/NIK-TIGER-BILL/vibetube) — Auto-pauses YouTube when you look away. For vibecoders. 👁️
 - [**MatryoshkaClaw**](https://github.com/NIK-TIGER-BILL/MatryoshkaClaw) — Russian-flavored autonomous AI agent platform. Agents inside agents. 🪆
+- [**HydraGPT**](https://t.me/hydra_llm_bot) — Tokens are the new drug. I deal them free. 8 open-source LLMs, OpenAI/Anthropic-compatible. No VPN.
 - **jazz-secretary** *(private, solo user)* — Turns every meeting into MCP-shared memory for my agent stack. A voice-to-voice agent attends for me — slides, chat, voice cloning when useful.
 - [**AdventOfCodeCopilot**](https://github.com/NIK-TIGER-BILL/AdventOfCodeCopilot) — My Claude Code, before Claude Code. Ralph-loop coding agent.
 
