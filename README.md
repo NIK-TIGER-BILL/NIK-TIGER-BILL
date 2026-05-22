@@ -22,7 +22,7 @@ Moscow, Russia · [Telegram](https://t.me/NIK_TIGER_BILL) · nzamuldinov@gmail.c
 
 [crewAI](https://github.com/crewAIInc/crewAI) · [llama_index](https://github.com/run-llama/llama_index) · [litellm](https://github.com/BerriAI/litellm) · [airflow](https://github.com/apache/airflow) · [agno](https://github.com/agno-agi/agno) · [diffusers](https://github.com/huggingface/diffusers) · [numpy](https://github.com/numpy/numpy) · [pymilvus](https://github.com/milvus-io/pymilvus) · [weaviate-python-client](https://github.com/weaviate/weaviate-python-client) · [langchain-gigachat](https://github.com/ai-forever/langchain-gigachat)
 
-> *Здесь должен был быть langchain, но они не любят меня.*
+> *16 PRs to langchain. The diff was clean. My GeoIP wasn't.*
 
 ---
 
