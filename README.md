@@ -1,6 +1,6 @@
 # Nikita Zamuldinov
 
-AI-native Team Lead, LLM agent builder, AI engineer, vibe-coder, ex-senior Python developer
+AI-native Team Lead · LLM agent builder · AI engineer · vibe-coder (ex-senior Python developer)
 
 I build AI agents. They mostly work.
 Sometimes they work too well, which is scarier.
