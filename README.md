@@ -20,7 +20,7 @@ Moscow, Russia · [Telegram](https://t.me/NIK_TIGER_BILL) · nzamuldinov@gmail.c
 
 ### Contributions
 
-[litellm](https://github.com/BerriAI/litellm) · [agno](https://github.com/agno-agi/agno) · [smolagents](https://github.com/huggingface/smolagents) · [crewAI](https://github.com/crewAIInc/crewAI) · [mem0](https://github.com/mem0ai/mem0) · [openai-python](https://github.com/openai/openai-python) · [langchain-gigachat](https://github.com/ai-forever/langchain-gigachat)
+[crewAI](https://github.com/crewAIInc/crewAI) · [llama_index](https://github.com/run-llama/llama_index) · [litellm](https://github.com/BerriAI/litellm) · [airflow](https://github.com/apache/airflow) · [agno](https://github.com/agno-agi/agno) · [diffusers](https://github.com/huggingface/diffusers) · [numpy](https://github.com/numpy/numpy) · [zarr-python](https://github.com/zarr-developers/zarr-python) · [pymilvus](https://github.com/milvus-io/pymilvus) · [weaviate-python-client](https://github.com/weaviate/weaviate-python-client) · [langchain-gigachat](https://github.com/ai-forever/langchain-gigachat)
 
 ---
 
