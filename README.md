@@ -15,6 +15,7 @@ Moscow, Russia · [Telegram](https://t.me/NIK_TIGER_BILL) · nzamuldinov@gmail.c
 - [**MatryoshkaClaw**](https://github.com/NIK-TIGER-BILL/MatryoshkaClaw) — Russian-flavored autonomous AI agent platform. Agents inside agents. 🪆
 - [**HydraGPT**](https://t.me/hydra_llm_bot) — Tokens are the new drug. I deal them free. 8 open-source LLMs, OpenAI/Anthropic-compatible. No VPN. Invite code: `github_friends`.
 - **jazz-secretary** *(private, solo user)* — Turns every meeting into MCP-shared memory for my agent stack. A voice-to-voice agent attends for me — slides, chat, voice cloning when useful.
+- [**Unison**](https://github.com/NIK-TIGER-BILL/unison) — Talk to anyone like you share a language. Real-time voice-to-voice, <1s, drops into Meet/Zoom/Discord.
 - [**AdventOfCodeCopilot**](https://github.com/NIK-TIGER-BILL/AdventOfCodeCopilot) — My Claude Code, before Claude Code. Ralph-loop coding agent.
 
 ---
